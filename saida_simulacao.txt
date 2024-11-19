@@ -1,0 +1,100 @@
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 1
+Tempo total: 200.43 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 2
+Tempo total: 100.24 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 4
+Tempo total: 50.14 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 6
+Tempo total: 33.08 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 8
+Tempo total: 25.09 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 10
+Tempo total: 20.05 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 1
+Tempo total: 200.41 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 2
+Tempo total: 100.34 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 4
+Tempo total: 50.18 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 6
+Tempo total: 33.12 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 8
+Tempo total: 24.68 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 10
+Tempo total: 20.06 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 1
+Tempo total: 202.33 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 2
+Tempo total: 101.34 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 4
+Tempo total: 50.71 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 6
+Tempo total: 33.55 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 8
+Tempo total: 25.36 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 10
+Tempo total: 20.29 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 1
+Tempo total: 202.38 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 2
+Tempo total: 101.34 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 4
+Tempo total: 50.68 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 6
+Tempo total: 33.54 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 8
+Tempo total: 25.38 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 10
+Tempo total: 20.30 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 1
+Tempo total: 200.54 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 2
+Tempo total: 100.37 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 1
+Tempo total: 200.63 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 2
+Tempo total: 100.34 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 4
+Tempo total: 50.15 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 6
+Tempo total: 33.12 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 8
+Tempo total: 25.09 segundos
+Estratégia: unica, Isolamento: READ COMMITTED, Threads: 10
+Tempo total: 20.08 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 1
+Tempo total: 200.58 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 2
+Tempo total: 100.32 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 4
+Tempo total: 50.17 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 6
+Tempo total: 33.11 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 8
+Tempo total: 25.09 segundos
+Estratégia: unica, Isolamento: SERIALIZABLE, Threads: 10
+Tempo total: 20.07 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 1
+Tempo total: 202.40 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 2
+Tempo total: 101.36 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 4
+Tempo total: 50.78 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 6
+Tempo total: 33.59 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 8
+Tempo total: 25.42 segundos
+Estratégia: separada, Isolamento: READ COMMITTED, Threads: 10
+Tempo total: 20.35 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 1
+Tempo total: 202.38 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 2
+Tempo total: 101.46 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 4
+Tempo total: 50.85 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 6
+Tempo total: 33.60 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 8
+Tempo total: 25.46 segundos
+Estratégia: separada, Isolamento: SERIALIZABLE, Threads: 10
+Tempo total: 20.38 segundos
